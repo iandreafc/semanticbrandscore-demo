@@ -16,4 +16,4 @@ Please cite the following paper while using the Semantic Brand Score:
 Fronzetti Colladon, A. (2018). The Semantic Brand Score. Journal of Business Research, 88, 150–160. https://doi.org/10.1016/j.jbusres.2018.03.026
 
 ## Contact
-Feel free to [contact me](https://andreafc.com) and suggest edits. I'm relatively new to Python programming (self-learned) and GitHub.
+Feel free to [contact me](https://andreafc.com) and suggest edits. 
